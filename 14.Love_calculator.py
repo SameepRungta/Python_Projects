@@ -15,7 +15,7 @@ O= name1_lower.count("o")+name2_lower.count("o")
 V= name1_lower.count("v")+name2_lower.count("v")
 E= name1_lower.count("e")+name2_lower.count("e")
 
-print(f"T: {T}")
+print(f"T: {T}"
 print(f"R: {R}")
 print(f"U: {U}")
 print(f"E: {E}")
